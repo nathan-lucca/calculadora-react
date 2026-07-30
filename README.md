@@ -40,4 +40,4 @@ src/
 
 ## Deploy
 
-[Ver projeto ao vivo](#) ← adicionar link após deploy na Vercel
+[Ver projeto ao vivo](https://calculadora-react-fawn.vercel.app/)
